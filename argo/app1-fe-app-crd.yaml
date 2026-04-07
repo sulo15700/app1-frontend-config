@@ -6,7 +6,7 @@ metadata:
 spec:
   project: app1-project
   source:
-    repoURL: https://github.com/CloudWithVarJosh/app1-frontend-config.git
+    repoURL: https://github.com/sulo15700/app1-frontend-config.git
     targetRevision: HEAD
     path: frontend
   destination:
