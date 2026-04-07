@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: docker push suleyman15700/app1-frontend:v1.0.0
+          image: suleyman15700/app1-frontend:v1.0.0
           ports:
             - containerPort: 4000
           env:
